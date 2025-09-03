@@ -1,6 +1,6 @@
 import toast from 'react-hot-toast';
 import { useJobs } from '../globalState/store';
-import './JobCard.css';
+import './jobCard.css';
 
 import {  useState } from 'react';
 
