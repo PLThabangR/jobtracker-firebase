@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { useUsers } from '../../globalState/usersStore';
 import toast from 'react-hot-toast';
 import {  useNavigate } from 'react-router-dom';
+import './form.css';
 
 interface UserRegisterForm{
   id: number;
