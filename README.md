@@ -3,19 +3,19 @@
 ![Dashboard Screenshot](https://github.com/PLThabangR/Job-Tracker/blob/main/public/jobtrackerUI.png)
 
 
-# A simple job tracking application built with **React** and **TypeScript**, powered by a mock backend using **JSON Server**.
+# A simple job tracking application built with **React** and **TypeScript**, powered by **Firestore RealtimeDB**.
 
 ---
 ## step 1
 - Clone this project using git clone 
 - git clone <repository_url>
-- cd job-tracker
+
 
 ## Step 2 
 - npm install  
 ## Step 3 
 - To run app
-- npm start
+- npm run dev
 
 # 📂 Project Structure
 
@@ -30,7 +30,7 @@
 
 # Add, edit, and delete job entries
 
-# Mock backend with JSON Server
+# Backend with firestore RealTime DB
 
 Built with React + TypeScript for scalability
 
@@ -40,7 +40,7 @@ Built with React + TypeScript for scalability
 - TypeScript (Type safety)
 - BootStrap (UI Design)
 - Zustand (State management)
-- JSON Server (Mock API)
+- Firestore DB (Real time)
 - Vite (Fast development environment)
 
 📸 Screenshots
@@ -49,7 +49,7 @@ Built with React + TypeScript for scalability
 Dashboard View
 
 Add Job Form
-
+![Dashboard Screenshot](https://github.com/PLThabangR/Job-Tracker/blob/main/public/jobtrackerUI.png)
 
 
 🤝 Contributing
