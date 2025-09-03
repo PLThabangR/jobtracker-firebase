@@ -1,0 +1,16 @@
+
+.no-jobs-header{
+    font-size:5rem;
+    color:white;
+    text-align:center;
+    
+}
+
+.card-container{
+    display:flex;
+    justify-Content:center;
+    flex-Wrap:wrap;
+    flex-Direction:row;
+    gap:10px;
+    align-Items:center
+}
