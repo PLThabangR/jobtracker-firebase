@@ -45,13 +45,6 @@ Built with React + TypeScript for scalability
 
 📸 Screenshots
 
-
-Dashboard View
-
-Add Job Form
-![Dashboard Screenshot](https://github.com/PLThabangR/Job-Tracker/blob/main/public/jobtrackerUI.png)
-
-
-🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
 ![Dashboard Screenshot](https://github.com/PLThabangR/Job-Tracker/blob/main/public/jobtracker.png)
+
+![Dashboard Screenshot](https://github.com/PLThabangR/jobtracker-firebase/blob/main/public/job%20modal.png)
