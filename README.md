@@ -5,6 +5,8 @@
 
 # A simple job tracking application built with **React** and **TypeScript**, powered by **Firestore RealtimeDB**.
 
+live demo
+https://velvety-lollipop-4b438a.netlify.app/
 ---
 ## step 1
 - Clone this project using git clone 
